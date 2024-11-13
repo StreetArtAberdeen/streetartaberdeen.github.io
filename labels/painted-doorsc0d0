@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Labels - Street Art Aberdeen</title>
+		<description><![CDATA[Street Art Aberdeen is a collaborative visual guide to street art in the city of Aberdeen, Scotland. It provides maps & galleries to help you explore & find art]]></description>
+		<link>https://streetartaberdeen.org/labels/80</link>
+		<lastBuildDate>Tue, 12 Nov 2024 21:42:10 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://streetartaberdeen.org/labels/painted-doors?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>174</title>
+			<link>https://streetartaberdeen.org/timeline/174</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/174</guid>
+			<description><![CDATA[]]></description>
+			<category>174</category>
+			<pubDate>Thu, 06 Oct 2022 10:00:09 +0000</pubDate>
+		</item>
+		<item>
+			<title>415</title>
+			<link>https://streetartaberdeen.org/timeline/415-4</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/415-4</guid>
+			<description><![CDATA[]]></description>
+			<category>415</category>
+			<pubDate>Thu, 06 Oct 2022 10:09:24 +0000</pubDate>
+		</item>
+		<item>
+			<title>440</title>
+			<link>https://streetartaberdeen.org/timeline/440-3</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/440-3</guid>
+			<description><![CDATA[]]></description>
+			<category>440</category>
+			<pubDate>Thu, 06 Oct 2022 10:05:02 +0000</pubDate>
+		</item>
+		<item>
+			<title>565</title>
+			<link>https://streetartaberdeen.org/timeline/565-5</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/565-5</guid>
+			<description><![CDATA[]]></description>
+			<category>565</category>
+			<pubDate>Thu, 06 Oct 2022 10:00:50 +0000</pubDate>
+		</item>
+		<item>
+			<title>598</title>
+			<link>https://streetartaberdeen.org/timeline/598-4</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/598-4</guid>
+			<description><![CDATA[]]></description>
+			<category>598</category>
+			<pubDate>Wed, 13 Jul 2022 09:24:10 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near 104 Correction Wynd, Aberdeen AB10 1QR, UK</title>
+			<link>https://streetartaberdeen.org/timeline/647</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/647</guid>
+			<description><![CDATA[]]></description>
+			<category>Near 104 Correction Wynd, Aberdeen AB10 1QR, UK</category>
+			<pubDate>Sun, 27 Feb 2022 20:13:04 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near 104 Correction Wynd, Aberdeen AB10 1QR, UK</title>
+			<link>https://streetartaberdeen.org/timeline/918</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/918</guid>
+			<description><![CDATA[]]></description>
+			<category>Near 104 Correction Wynd, Aberdeen AB10 1QR, UK</category>
+			<pubDate>Sun, 27 Feb 2022 20:19:38 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near 11 Bridge St, Aberdeen AB11 6JL, UK</title>
+			<link>https://streetartaberdeen.org/timeline/700-3</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/700-3</guid>
+			<description><![CDATA[]]></description>
+			<category>Near 11 Bridge St, Aberdeen AB11 6JL, UK</category>
+			<pubDate>Mon, 17 Jan 2022 16:41:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near 11 Hadden St, Aberdeen AB11 6NU, UK</title>
+			<link>https://streetartaberdeen.org/timeline/713</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/713</guid>
+			<description><![CDATA[]]></description>
+			<category>Near 11 Hadden St, Aberdeen AB11 6NU, UK</category>
+			<pubDate>Sat, 22 Jan 2022 17:49:51 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near 11 Hadden St, Aberdeen AB11 6NU, UK</title>
+			<link>https://streetartaberdeen.org/timeline/810</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/810</guid>
+			<description><![CDATA[]]></description>
+			<category>Near 11 Hadden St, Aberdeen AB11 6NU, UK</category>
+			<pubDate>Sat, 22 Jan 2022 17:59:09 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<title type="text">Labels - Street Art Aberdeen</title>
+	<subtitle type="text">Street Art Aberdeen is a collaborative visual guide to street art in the city of Aberdeen, Scotland. It provides maps &amp; galleries to help you explore &amp; find art</subtitle>
+	<link rel="alternate" type="text/html" href="https://streetartaberdeen.org"/>
+	<id>https://streetartaberdeen.org/labels/fittie</id>
+	<updated>2024-11-12T21:33:35+00:00</updated>
+	<author>
+		<name>Street Art Aberdeen</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://streetartaberdeen.org/labels/fittie?format=feed&amp;type=atom"/>
+	<entry>
+		<title>449</title>
+		<link rel="alternate" type="text/html" href="https://streetartaberdeen.org/timeline/449"/>
+		<published>2022-07-18T14:06:29+00:00</published>
+		<updated>2022-07-18T14:06:29+00:00</updated>
+		<id>https://streetartaberdeen.org/timeline/449</id>
+		<author>
+			<name>Andy Gaskell</name>
+		</author>
+		<category term="449" />
+	</entry>
+	<entry>
+		<title>Near 1 North Square, Aberdeen AB11 5DX, UK</title>
+		<link rel="alternate" type="text/html" href="https://streetartaberdeen.org/timeline/318"/>
+		<published>2022-01-31T19:34:47+00:00</published>
+		<updated>2022-01-31T19:34:47+00:00</updated>
+		<id>https://streetartaberdeen.org/timeline/318</id>
+		<author>
+			<name>Andy Gaskell</name>
+		</author>
+		<category term="Near 1 North Square, Aberdeen AB11 5DX, UK" />
+	</entry>
+	<entry>
+		<title>Near 1 North Square, Aberdeen AB11 5DX, UK</title>
+		<link rel="alternate" type="text/html" href="https://streetartaberdeen.org/timeline/954"/>
+		<published>2022-01-31T19:35:38+00:00</published>
+		<updated>2022-01-31T19:35:38+00:00</updated>
+		<id>https://streetartaberdeen.org/timeline/954</id>
+		<author>
+			<name>Andy Gaskell</name>
+		</author>
+		<category term="Near 1 North Square, Aberdeen AB11 5DX, UK" />
+	</entry>
+	<entry>
+		<title>Near 1 North Square, Aberdeen AB11 5DX, UK</title>
+		<link rel="alternate" type="text/html" href="https://streetartaberdeen.org/timeline/716"/>
+		<published>2022-01-31T19:36:19+00:00</published>
+		<updated>2022-01-31T19:36:19+00:00</updated>
+		<id>https://streetartaberdeen.org/timeline/716</id>
+		<author>
+			<name>Andy Gaskell</name>
+		</author>
+		<category term="Near 1 North Square, Aberdeen AB11 5DX, UK" />
+	</entry>
+	<entry>
+		<title>Near 14 South Square, Aberdeen AB11 5DT, UK</title>
+		<link rel="alternate" type="text/html" href="https://streetartaberdeen.org/timeline/204"/>
+		<published>2022-01-31T19:33:08+00:00</published>
+		<updated>2022-01-31T19:33:08+00:00</updated>
+		<id>https://streetartaberdeen.org/timeline/204</id>
+		<author>
+			<name>Andy Gaskell</name>
+		</author>
+		<category term="Near 14 South Square, Aberdeen AB11 5DT, UK" />
+	</entry>
+</feed>

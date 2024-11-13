@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Labels - Street Art Aberdeen</title>
+		<description><![CDATA[Street Art Aberdeen is a collaborative visual guide to street art in the city of Aberdeen, Scotland. It provides maps & galleries to help you explore & find art]]></description>
+		<link>https://streetartaberdeen.org/labels/123</link>
+		<lastBuildDate>Tue, 12 Nov 2024 21:45:45 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://streetartaberdeen.org/labels/zone?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Near 1 Sunnyside Terrace, Aberdeen AB24 3NB, UK</title>
+			<link>https://streetartaberdeen.org/timeline/893-2</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/893-2</guid>
+			<description><![CDATA[]]></description>
+			<category>Near 1 Sunnyside Terrace, Aberdeen AB24 3NB, UK</category>
+			<pubDate>Tue, 19 Jul 2022 16:53:08 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near 10 Canal Pl, Aberdeen AB24 3HG, UK</title>
+			<link>https://streetartaberdeen.org/timeline/546-2</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/546-2</guid>
+			<description><![CDATA[]]></description>
+			<category>Near 10 Canal Pl, Aberdeen AB24 3HG, UK</category>
+			<pubDate>Sun, 13 Mar 2022 14:48:34 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near 10 Canal Pl, Aberdeen AB24 3HG, UK</title>
+			<link>https://streetartaberdeen.org/timeline/213-2</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/213-2</guid>
+			<description><![CDATA[]]></description>
+			<category>Near 10 Canal Pl, Aberdeen AB24 3HG, UK</category>
+			<pubDate>Wed, 14 Sep 2022 15:42:44 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near 5 Mounthooly, Aberdeen AB24 3LF, UK</title>
+			<link>https://streetartaberdeen.org/timeline/670-2</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/670-2</guid>
+			<description><![CDATA[]]></description>
+			<category>Near 5 Mounthooly, Aberdeen AB24 3LF, UK</category>
+			<pubDate>Fri, 22 Jul 2022 15:43:48 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near Esplanade, Aberdeen AB24 1XL, UK</title>
+			<link>https://streetartaberdeen.org/timeline/778-2</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/778-2</guid>
+			<description><![CDATA[]]></description>
+			<category>Near Esplanade, Aberdeen AB24 1XL, UK</category>
+			<pubDate>Tue, 21 Jun 2022 20:47:08 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

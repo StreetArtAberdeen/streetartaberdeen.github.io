@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Labels - Street Art Aberdeen</title>
+		<description><![CDATA[Street Art Aberdeen is a collaborative visual guide to street art in the city of Aberdeen, Scotland. It provides maps & galleries to help you explore & find art]]></description>
+		<link>https://streetartaberdeen.org/labels/87</link>
+		<lastBuildDate>Tue, 12 Nov 2024 21:43:37 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://streetartaberdeen.org/labels/shirin-karbor?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Near 2 Rennie&amp;#039;s Wynd, The Grn, Aberdeen AB11 6NZ, UK</title>
+			<link>https://streetartaberdeen.org/timeline/718-2</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/718-2</guid>
+			<description><![CDATA[]]></description>
+			<category>Near 2 Rennie&amp;#039;s Wynd, The Grn, Aberdeen AB11 6NZ, UK</category>
+			<pubDate>Fri, 08 Apr 2022 15:40:28 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

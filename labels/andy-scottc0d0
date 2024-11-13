@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Labels - Street Art Aberdeen</title>
+		<description><![CDATA[Street Art Aberdeen is a collaborative visual guide to street art in the city of Aberdeen, Scotland. It provides maps & galleries to help you explore & find art]]></description>
+		<link>https://streetartaberdeen.org/labels/72</link>
+		<lastBuildDate>Tue, 12 Nov 2024 21:36:45 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://streetartaberdeen.org/labels/andy-scott?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Near 5th Floor, Marischal Square, 1 Broad St, Aberdeen AB10 1BL, UK</title>
+			<link>https://streetartaberdeen.org/timeline/565-3</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/565-3</guid>
+			<description><![CDATA[]]></description>
+			<category>Near 5th Floor, Marischal Square, 1 Broad St, Aberdeen AB10 1BL, UK</category>
+			<pubDate>Tue, 07 Jun 2022 14:32:00 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

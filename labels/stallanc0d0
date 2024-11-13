@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Labels - Street Art Aberdeen</title>
+		<description><![CDATA[Street Art Aberdeen is a collaborative visual guide to street art in the city of Aberdeen, Scotland. It provides maps & galleries to help you explore & find art]]></description>
+		<link>https://streetartaberdeen.org/labels/42</link>
+		<lastBuildDate>Tue, 12 Nov 2024 21:44:24 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://streetartaberdeen.org/labels/stallan?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>167</title>
+			<link>https://streetartaberdeen.org/timeline/167-2</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/167-2</guid>
+			<description><![CDATA[<p>Thanks to <a href="https://www.flickr.com/photos/the_pingus/" target="_blank" rel="noopener">The Pingus</a> for the photo.</p>]]></description>
+			<category>167</category>
+			<pubDate>Mon, 30 May 2022 09:34:32 +0000</pubDate>
+		</item>
+		<item>
+			<title>578</title>
+			<link>https://streetartaberdeen.org/timeline/578</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/578</guid>
+			<description><![CDATA[]]></description>
+			<category>578</category>
+			<pubDate>Wed, 20 Apr 2022 12:18:26 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near 181 Union St, Aberdeen AB11 6BB, UK</title>
+			<link>https://streetartaberdeen.org/timeline/shark-skull</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/shark-skull</guid>
+			<description><![CDATA[]]></description>
+			<category>Near 181 Union St, Aberdeen AB11 6BB, UK</category>
+			<pubDate>Fri, 14 Jan 2022 13:19:16 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near South Esplanade West, Aberdeen AB11 9DR, UK</title>
+			<link>https://streetartaberdeen.org/timeline/599-3</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/599-3</guid>
+			<description><![CDATA[<p>Thanks to <a href="https://www.flickr.com/photos/the_pingus/" target="_blank" rel="noopener">The Pingus</a> for the photo.</p>]]></description>
+			<category>Near South Esplanade West, Aberdeen AB11 9DR, UK</category>
+			<pubDate>Sat, 02 Apr 2022 15:09:46 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

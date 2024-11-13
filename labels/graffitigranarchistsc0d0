@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Labels - Street Art Aberdeen</title>
+		<description><![CDATA[Street Art Aberdeen is a collaborative visual guide to street art in the city of Aberdeen, Scotland. It provides maps & galleries to help you explore & find art]]></description>
+		<link>https://streetartaberdeen.org/labels/45</link>
+		<lastBuildDate>Tue, 12 Nov 2024 21:38:48 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://streetartaberdeen.org/labels/graffitigranarchists?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>345</title>
+			<link>https://streetartaberdeen.org/timeline/345</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/345</guid>
+			<description><![CDATA[]]></description>
+			<category>345</category>
+			<pubDate>Mon, 07 Mar 2022 15:16:34 +0000</pubDate>
+		</item>
+		<item>
+			<title>951</title>
+			<link>https://streetartaberdeen.org/timeline/951-5</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/951-5</guid>
+			<description><![CDATA[]]></description>
+			<category>951</category>
+			<pubDate>Thu, 06 Oct 2022 09:58:53 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near 164 Hutcheon St, Aberdeen AB25 2TH, UK</title>
+			<link>https://streetartaberdeen.org/timeline/924</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/924</guid>
+			<description><![CDATA[]]></description>
+			<category>Near 164 Hutcheon St, Aberdeen AB25 2TH, UK</category>
+			<pubDate>Wed, 02 Feb 2022 15:28:16 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near 166 Hutcheon St, Aberdeen AB25 3RX, UK</title>
+			<link>https://streetartaberdeen.org/timeline/milk-at-the-door</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/milk-at-the-door</guid>
+			<description><![CDATA[]]></description>
+			<category>Near 166 Hutcheon St, Aberdeen AB25 3RX, UK</category>
+			<pubDate>Fri, 14 Jan 2022 14:23:11 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near 49 Union St, Aberdeen AB11 5BN, UK</title>
+			<link>https://streetartaberdeen.org/timeline/993-2</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/993-2</guid>
+			<description><![CDATA[]]></description>
+			<category>Near 49 Union St, Aberdeen AB11 5BN, UK</category>
+			<pubDate>Thu, 20 Jan 2022 22:15:43 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near 49 Union St, Aberdeen AB11 5BN, UK</title>
+			<link>https://streetartaberdeen.org/timeline/534</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/534</guid>
+			<description><![CDATA[]]></description>
+			<category>Near 49 Union St, Aberdeen AB11 5BN, UK</category>
+			<pubDate>Thu, 20 Jan 2022 22:32:44 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

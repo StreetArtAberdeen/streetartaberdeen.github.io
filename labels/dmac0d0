@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Labels - Street Art Aberdeen</title>
+		<description><![CDATA[Street Art Aberdeen is a collaborative visual guide to street art in the city of Aberdeen, Scotland. It provides maps & galleries to help you explore & find art]]></description>
+		<link>https://streetartaberdeen.org/labels/141</link>
+		<lastBuildDate>Tue, 12 Nov 2024 21:37:41 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://streetartaberdeen.org/labels/dma?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Near 10 Canal Pl, Aberdeen AB24 3HG, UK</title>
+			<link>https://streetartaberdeen.org/timeline/867-2</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/867-2</guid>
+			<description><![CDATA[]]></description>
+			<category>Near 10 Canal Pl, Aberdeen AB24 3HG, UK</category>
+			<pubDate>Thu, 29 Sep 2022 18:27:37 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near 4 Cardens Knowe, Bridge of Don, Aberdeen AB22 8PE, UK</title>
+			<link>https://streetartaberdeen.org/timeline/747</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/747</guid>
+			<description><![CDATA[]]></description>
+			<category>Near 4 Cardens Knowe, Bridge of Don, Aberdeen AB22 8PE, UK</category>
+			<pubDate>Thu, 19 May 2022 13:13:52 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near 6-7 Clifton Rd, Kittybrewster, Aberdeen AB24 4RZ, UK</title>
+			<link>https://streetartaberdeen.org/timeline/763</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/763</guid>
+			<description><![CDATA[]]></description>
+			<category>Near 6-7 Clifton Rd, Kittybrewster, Aberdeen AB24 4RZ, UK</category>
+			<pubDate>Sat, 12 Mar 2022 18:02:46 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

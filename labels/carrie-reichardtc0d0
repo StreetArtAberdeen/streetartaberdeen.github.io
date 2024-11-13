@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Labels - Street Art Aberdeen</title>
+		<description><![CDATA[Street Art Aberdeen is a collaborative visual guide to street art in the city of Aberdeen, Scotland. It provides maps & galleries to help you explore & find art]]></description>
+		<link>https://streetartaberdeen.org/labels/20</link>
+		<lastBuildDate>Tue, 12 Nov 2024 21:37:02 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://streetartaberdeen.org/labels/carrie-reichardt?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>196</title>
+			<link>https://streetartaberdeen.org/timeline/196-5</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/196-5</guid>
+			<description><![CDATA[]]></description>
+			<category>196</category>
+			<pubDate>Wed, 15 Jun 2022 08:33:15 +0000</pubDate>
+		</item>
+		<item>
+			<title>630</title>
+			<link>https://streetartaberdeen.org/timeline/630</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/630</guid>
+			<description><![CDATA[]]></description>
+			<category>630</category>
+			<pubDate>Wed, 15 Jun 2022 08:32:23 +0000</pubDate>
+		</item>
+		<item>
+			<title>740</title>
+			<link>https://streetartaberdeen.org/timeline/740-4</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/740-4</guid>
+			<description><![CDATA[]]></description>
+			<category>740</category>
+			<pubDate>Wed, 15 Jun 2022 08:32:46 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near 13 Adelphi Ln, Aberdeen AB11 5BL, UK</title>
+			<link>https://streetartaberdeen.org/timeline/535-2</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/535-2</guid>
+			<description><![CDATA[]]></description>
+			<category>Near 13 Adelphi Ln, Aberdeen AB11 5BL, UK</category>
+			<pubDate>Thu, 20 Jan 2022 22:22:52 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near 55 Netherkirkgate, Aberdeen AB10 1AW, UK</title>
+			<link>https://streetartaberdeen.org/timeline/700</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/700</guid>
+			<description><![CDATA[]]></description>
+			<category>Near 55 Netherkirkgate, Aberdeen AB10 1AW, UK</category>
+			<pubDate>Mon, 17 Jan 2022 15:05:27 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near 65 St Nicholas Ln, Aberdeen AB10 1HF, UK</title>
+			<link>https://streetartaberdeen.org/timeline/860</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/860</guid>
+			<description><![CDATA[]]></description>
+			<category>Near 65 St Nicholas Ln, Aberdeen AB10 1HF, UK</category>
+			<pubDate>Sun, 27 Feb 2022 20:17:05 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near St Nicholas Branch, 62 Union St, Aberdeen AB10 1WD, UK</title>
+			<link>https://streetartaberdeen.org/timeline/390-2</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/390-2</guid>
+			<description><![CDATA[<p>Thanks to <a href="https://www.flickr.com/photos/the_pingus/" target="_blank" rel="noopener">The Pingus</a> for the photo.</p>]]></description>
+			<category>Near St Nicholas Branch, 62 Union St, Aberdeen AB10 1WD, UK</category>
+			<pubDate>Fri, 22 Apr 2022 13:05:55 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

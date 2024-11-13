@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Labels - Street Art Aberdeen</title>
+		<description><![CDATA[Street Art Aberdeen is a collaborative visual guide to street art in the city of Aberdeen, Scotland. It provides maps & galleries to help you explore & find art]]></description>
+		<link>https://streetartaberdeen.org/labels/98</link>
+		<lastBuildDate>Tue, 12 Nov 2024 21:44:02 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://streetartaberdeen.org/labels/slave?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>165</title>
+			<link>https://streetartaberdeen.org/timeline/165</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/165</guid>
+			<description><![CDATA[]]></description>
+			<category>165</category>
+			<pubDate>Tue, 19 Jul 2022 17:15:47 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near 31 Kettlehills Cres, Aberdeen AB16 5TA, UK</title>
+			<link>https://streetartaberdeen.org/timeline/953-3</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/953-3</guid>
+			<description><![CDATA[]]></description>
+			<category>Near 31 Kettlehills Cres, Aberdeen AB16 5TA, UK</category>
+			<pubDate>Fri, 11 Mar 2022 16:27:25 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near A96, Bucksburn, Aberdeen AB21 9AY, UK</title>
+			<link>https://streetartaberdeen.org/timeline/910-2</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/910-2</guid>
+			<description><![CDATA[]]></description>
+			<category>Near A96, Bucksburn, Aberdeen AB21 9AY, UK</category>
+			<pubDate>Thu, 19 May 2022 13:23:23 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near Esplanade, Aberdeen AB23 8DR, UK</title>
+			<link>https://streetartaberdeen.org/timeline/192</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/192</guid>
+			<description><![CDATA[]]></description>
+			<category>Near Esplanade, Aberdeen AB23 8DR, UK</category>
+			<pubDate>Tue, 05 Sep 2023 20:16:44 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near Esplanade, Aberdeen AB24 1XL, UK</title>
+			<link>https://streetartaberdeen.org/timeline/672-3</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/672-3</guid>
+			<description><![CDATA[]]></description>
+			<category>Near Esplanade, Aberdeen AB24 1XL, UK</category>
+			<pubDate>Thu, 10 Nov 2022 13:57:39 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near Forrit Brae, Aberdeen AB21 9FX, UK</title>
+			<link>https://streetartaberdeen.org/timeline/478-2</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/478-2</guid>
+			<description><![CDATA[]]></description>
+			<category>Near Forrit Brae, Aberdeen AB21 9FX, UK</category>
+			<pubDate>Thu, 19 May 2022 13:24:54 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near Forrit Brae, Aberdeen AB21 9FX, UK</title>
+			<link>https://streetartaberdeen.org/timeline/647-3</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/647-3</guid>
+			<description><![CDATA[]]></description>
+			<category>Near Forrit Brae, Aberdeen AB21 9FX, UK</category>
+			<pubDate>Thu, 19 May 2022 13:28:19 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

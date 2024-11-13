@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Labels - Street Art Aberdeen</title>
+		<description><![CDATA[Street Art Aberdeen is a collaborative visual guide to street art in the city of Aberdeen, Scotland. It provides maps & galleries to help you explore & find art]]></description>
+		<link>https://streetartaberdeen.org/labels/96</link>
+		<lastBuildDate>Tue, 12 Nov 2024 21:36:31 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://streetartaberdeen.org/labels/airhead?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>983</title>
+			<link>https://streetartaberdeen.org/timeline/983-2</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/983-2</guid>
+			<description><![CDATA[]]></description>
+			<category>983</category>
+			<pubDate>Wed, 13 Jul 2022 09:39:31 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near 1 Sunnyside Terrace, Aberdeen AB24 3NB, UK</title>
+			<link>https://streetartaberdeen.org/timeline/792-2</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/792-2</guid>
+			<description><![CDATA[]]></description>
+			<category>Near 1 Sunnyside Terrace, Aberdeen AB24 3NB, UK</category>
+			<pubDate>Fri, 13 May 2022 13:32:21 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near 18 Harriet Street, Aberdeen AB10 1FR, UK</title>
+			<link>https://streetartaberdeen.org/timeline/965</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/965</guid>
+			<description><![CDATA[]]></description>
+			<category>Near 18 Harriet Street, Aberdeen AB10 1FR, UK</category>
+			<pubDate>Fri, 08 Apr 2022 15:38:49 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near 9 Sunnyside Terrace, Aberdeen AB24 3NB, UK</title>
+			<link>https://streetartaberdeen.org/timeline/520-2</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/520-2</guid>
+			<description><![CDATA[]]></description>
+			<category>Near 9 Sunnyside Terrace, Aberdeen AB24 3NB, UK</category>
+			<pubDate>Thu, 20 Jan 2022 15:39:45 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<title type="text">Labels - Street Art Aberdeen</title>
+	<subtitle type="text">Street Art Aberdeen is a collaborative visual guide to street art in the city of Aberdeen, Scotland. It provides maps &amp; galleries to help you explore &amp; find art</subtitle>
+	<link rel="alternate" type="text/html" href="https://streetartaberdeen.org"/>
+	<id>https://streetartaberdeen.org/labels/fisher</id>
+	<updated>2024-11-12T21:38:11+00:00</updated>
+	<author>
+		<name>Street Art Aberdeen</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://streetartaberdeen.org/labels/fisher?format=feed&amp;type=atom"/>
+	<entry>
+		<title>277</title>
+		<link rel="alternate" type="text/html" href="https://streetartaberdeen.org/timeline/277"/>
+		<published>2022-09-26T11:09:55+00:00</published>
+		<updated>2022-09-26T11:09:55+00:00</updated>
+		<id>https://streetartaberdeen.org/timeline/277</id>
+		<author>
+			<name>Andy Gaskell</name>
+		</author>
+		<summary type="html">&lt;p&gt;Thanks to &lt;a href=&quot;https://www.flickr.com/photos/the_pingus/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;The Pingus&lt;/a&gt; for the photo.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Thanks to &lt;a href=&quot;https://www.flickr.com/photos/the_pingus/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;The Pingus&lt;/a&gt; for the photo.&lt;/p&gt;</content>
+		<category term="277" />
+	</entry>
+	<entry>
+		<title>591</title>
+		<link rel="alternate" type="text/html" href="https://streetartaberdeen.org/timeline/591"/>
+		<published>2022-04-08T19:42:38+00:00</published>
+		<updated>2022-04-08T19:42:38+00:00</updated>
+		<id>https://streetartaberdeen.org/timeline/591</id>
+		<author>
+			<name>Andy Gaskell</name>
+		</author>
+		<summary type="html">&lt;p&gt;Thanks to &lt;a href=&quot;https://www.flickr.com/photos/the_pingus/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;The Pingus&lt;/a&gt; for the photo.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Thanks to &lt;a href=&quot;https://www.flickr.com/photos/the_pingus/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;The Pingus&lt;/a&gt; for the photo.&lt;/p&gt;</content>
+		<category term="591" />
+	</entry>
+	<entry>
+		<title>Near 27 Rosemount Pl, Aberdeen AB25 2QS, UK</title>
+		<link rel="alternate" type="text/html" href="https://streetartaberdeen.org/timeline/teeth"/>
+		<published>2022-01-14T16:22:53+00:00</published>
+		<updated>2022-01-14T16:22:53+00:00</updated>
+		<id>https://streetartaberdeen.org/timeline/teeth</id>
+		<author>
+			<name>Andy Gaskell</name>
+		</author>
+		<category term="Near 27 Rosemount Pl, Aberdeen AB25 2QS, UK" />
+	</entry>
+	<entry>
+		<title>Near 27 Rosemount Pl, Aberdeen AB25 2QS, UK</title>
+		<link rel="alternate" type="text/html" href="https://streetartaberdeen.org/timeline/27"/>
+		<published>2022-01-14T16:24:51+00:00</published>
+		<updated>2022-01-14T16:24:51+00:00</updated>
+		<id>https://streetartaberdeen.org/timeline/27</id>
+		<author>
+			<name>Andy Gaskell</name>
+		</author>
+		<category term="Near 27 Rosemount Pl, Aberdeen AB25 2QS, UK" />
+	</entry>
+	<entry>
+		<title>Near 71 The Grn, Aberdeen AB11 6NY, UK</title>
+		<link rel="alternate" type="text/html" href="https://streetartaberdeen.org/timeline/978"/>
+		<published>2022-01-17T16:57:46+00:00</published>
+		<updated>2022-01-17T16:57:46+00:00</updated>
+		<id>https://streetartaberdeen.org/timeline/978</id>
+		<author>
+			<name>Andy Gaskell</name>
+		</author>
+		<category term="Near 71 The Grn, Aberdeen AB11 6NY, UK" />
+	</entry>
+</feed>

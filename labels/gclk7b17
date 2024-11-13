@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<title type="text">Labels - Street Art Aberdeen</title>
+	<subtitle type="text">Street Art Aberdeen is a collaborative visual guide to street art in the city of Aberdeen, Scotland. It provides maps &amp; galleries to help you explore &amp; find art</subtitle>
+	<link rel="alternate" type="text/html" href="https://streetartaberdeen.org"/>
+	<id>https://streetartaberdeen.org/labels/gclk</id>
+	<updated>2024-11-12T21:38:39+00:00</updated>
+	<author>
+		<name>Street Art Aberdeen</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://streetartaberdeen.org/labels/gclk?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Near 12 Merkland Rd E, Aberdeen AB24 5PR, UK</title>
+		<link rel="alternate" type="text/html" href="https://streetartaberdeen.org/timeline/792"/>
+		<published>2022-03-21T15:03:21+00:00</published>
+		<updated>2022-03-21T15:03:21+00:00</updated>
+		<id>https://streetartaberdeen.org/timeline/792</id>
+		<author>
+			<name>Andy Gaskell</name>
+		</author>
+		<category term="Near 12 Merkland Rd E, Aberdeen AB24 5PR, UK" />
+	</entry>
+	<entry>
+		<title>Near 19 Fairview Grange, Danestone, Bridge of Don, Aberdeen AB22 8AZ, UK</title>
+		<link rel="alternate" type="text/html" href="https://streetartaberdeen.org/timeline/345-3"/>
+		<published>2022-04-20T11:05:22+00:00</published>
+		<updated>2022-04-20T11:05:22+00:00</updated>
+		<id>https://streetartaberdeen.org/timeline/345-3</id>
+		<author>
+			<name>Andy Gaskell</name>
+		</author>
+		<category term="Near 19 Fairview Grange, Danestone, Bridge of Don, Aberdeen AB22 8AZ, UK" />
+	</entry>
+	<entry>
+		<title>Near 19 Fairview Grange, Danestone, Bridge of Don, Aberdeen AB22 8AZ, UK</title>
+		<link rel="alternate" type="text/html" href="https://streetartaberdeen.org/timeline/622"/>
+		<published>2022-04-20T11:15:26+00:00</published>
+		<updated>2022-04-20T11:15:26+00:00</updated>
+		<id>https://streetartaberdeen.org/timeline/622</id>
+		<author>
+			<name>Andy Gaskell</name>
+		</author>
+		<category term="Near 19 Fairview Grange, Danestone, Bridge of Don, Aberdeen AB22 8AZ, UK" />
+	</entry>
+	<entry>
+		<title>Near 26 Fairview Grange, Danestone, Bridge of Don, Aberdeen AB22 8AZ, UK</title>
+		<link rel="alternate" type="text/html" href="https://streetartaberdeen.org/timeline/208-3"/>
+		<published>2022-04-20T11:03:19+00:00</published>
+		<updated>2022-04-20T11:03:19+00:00</updated>
+		<id>https://streetartaberdeen.org/timeline/208-3</id>
+		<author>
+			<name>Andy Gaskell</name>
+		</author>
+		<category term="Near 26 Fairview Grange, Danestone, Bridge of Don, Aberdeen AB22 8AZ, UK" />
+	</entry>
+	<entry>
+		<title>Near 26 Fairview Grange, Danestone, Bridge of Don, Aberdeen AB22 8AZ, UK</title>
+		<link rel="alternate" type="text/html" href="https://streetartaberdeen.org/timeline/455-2"/>
+		<published>2022-04-20T11:30:35+00:00</published>
+		<updated>2022-04-20T11:30:35+00:00</updated>
+		<id>https://streetartaberdeen.org/timeline/455-2</id>
+		<author>
+			<name>Andy Gaskell</name>
+		</author>
+		<category term="Near 26 Fairview Grange, Danestone, Bridge of Don, Aberdeen AB22 8AZ, UK" />
+	</entry>
+	<entry>
+		<title>Near 4 Cardens Knowe, Bridge of Don, Aberdeen AB22 8PE, UK</title>
+		<link rel="alternate" type="text/html" href="https://streetartaberdeen.org/timeline/515-3"/>
+		<published>2022-05-19T13:06:53+00:00</published>
+		<updated>2022-05-19T13:06:53+00:00</updated>
+		<id>https://streetartaberdeen.org/timeline/515-3</id>
+		<author>
+			<name>Andy Gaskell</name>
+		</author>
+		<category term="Near 4 Cardens Knowe, Bridge of Don, Aberdeen AB22 8PE, UK" />
+	</entry>
+	<entry>
+		<title>Near 4 Cardens Knowe, Bridge of Don, Aberdeen AB22 8PE, UK</title>
+		<link rel="alternate" type="text/html" href="https://streetartaberdeen.org/timeline/413-2"/>
+		<published>2022-05-19T13:08:05+00:00</published>
+		<updated>2022-05-19T13:08:05+00:00</updated>
+		<id>https://streetartaberdeen.org/timeline/413-2</id>
+		<author>
+			<name>Andy Gaskell</name>
+		</author>
+		<category term="Near 4 Cardens Knowe, Bridge of Don, Aberdeen AB22 8PE, UK" />
+	</entry>
+	<entry>
+		<title>Near 690 King St, Old Aberdeen, Aberdeen AB24 1SD, UK</title>
+		<link rel="alternate" type="text/html" href="https://streetartaberdeen.org/timeline/914"/>
+		<published>2022-02-22T20:57:42+00:00</published>
+		<updated>2022-02-22T20:57:42+00:00</updated>
+		<id>https://streetartaberdeen.org/timeline/914</id>
+		<author>
+			<name>Andy Gaskell</name>
+		</author>
+		<category term="Near 690 King St, Old Aberdeen, Aberdeen AB24 1SD, UK" />
+	</entry>
+	<entry>
+		<title>Near 75 Roslin Pl, Aberdeen AB24 5BL, UK</title>
+		<link rel="alternate" type="text/html" href="https://streetartaberdeen.org/timeline/327-2"/>
+		<published>2022-02-27T20:27:55+00:00</published>
+		<updated>2022-02-27T20:27:55+00:00</updated>
+		<id>https://streetartaberdeen.org/timeline/327-2</id>
+		<author>
+			<name>Andy Gaskell</name>
+		</author>
+		<category term="Near 75 Roslin Pl, Aberdeen AB24 5BL, UK" />
+	</entry>
+	<entry>
+		<title>Near 75 Roslin Pl, Aberdeen AB24 5BL, UK</title>
+		<link rel="alternate" type="text/html" href="https://streetartaberdeen.org/timeline/731"/>
+		<published>2022-02-27T20:28:25+00:00</published>
+		<updated>2022-02-27T20:28:25+00:00</updated>
+		<id>https://streetartaberdeen.org/timeline/731</id>
+		<author>
+			<name>Andy Gaskell</name>
+		</author>
+		<category term="Near 75 Roslin Pl, Aberdeen AB24 5BL, UK" />
+	</entry>
+</feed>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Labels - Street Art Aberdeen</title>
+		<description><![CDATA[Street Art Aberdeen is a collaborative visual guide to street art in the city of Aberdeen, Scotland. It provides maps & galleries to help you explore & find art]]></description>
+		<link>https://streetartaberdeen.org/labels/147</link>
+		<lastBuildDate>Tue, 12 Nov 2024 21:33:34 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://streetartaberdeen.org/labels/fittie?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>449</title>
+			<link>https://streetartaberdeen.org/timeline/449</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/449</guid>
+			<description><![CDATA[]]></description>
+			<category>449</category>
+			<pubDate>Mon, 18 Jul 2022 14:06:29 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near 1 North Square, Aberdeen AB11 5DX, UK</title>
+			<link>https://streetartaberdeen.org/timeline/318</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/318</guid>
+			<description><![CDATA[]]></description>
+			<category>Near 1 North Square, Aberdeen AB11 5DX, UK</category>
+			<pubDate>Mon, 31 Jan 2022 19:34:47 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near 1 North Square, Aberdeen AB11 5DX, UK</title>
+			<link>https://streetartaberdeen.org/timeline/954</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/954</guid>
+			<description><![CDATA[]]></description>
+			<category>Near 1 North Square, Aberdeen AB11 5DX, UK</category>
+			<pubDate>Mon, 31 Jan 2022 19:35:38 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near 1 North Square, Aberdeen AB11 5DX, UK</title>
+			<link>https://streetartaberdeen.org/timeline/716</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/716</guid>
+			<description><![CDATA[]]></description>
+			<category>Near 1 North Square, Aberdeen AB11 5DX, UK</category>
+			<pubDate>Mon, 31 Jan 2022 19:36:19 +0000</pubDate>
+		</item>
+		<item>
+			<title>Near 14 South Square, Aberdeen AB11 5DT, UK</title>
+			<link>https://streetartaberdeen.org/timeline/204</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/204</guid>
+			<description><![CDATA[]]></description>
+			<category>Near 14 South Square, Aberdeen AB11 5DT, UK</category>
+			<pubDate>Mon, 31 Jan 2022 19:33:08 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

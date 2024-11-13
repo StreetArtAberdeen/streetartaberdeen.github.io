@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<title type="text">Labels - Street Art Aberdeen</title>
+	<subtitle type="text">Street Art Aberdeen is a collaborative visual guide to street art in the city of Aberdeen, Scotland. It provides maps &amp; galleries to help you explore &amp; find art</subtitle>
+	<link rel="alternate" type="text/html" href="https://streetartaberdeen.org"/>
+	<id>https://streetartaberdeen.org/labels/elki</id>
+	<updated>2024-11-12T21:37:53+00:00</updated>
+	<author>
+		<name>Street Art Aberdeen</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://streetartaberdeen.org/labels/elki?format=feed&amp;type=atom"/>
+	<entry>
+		<title>753</title>
+		<link rel="alternate" type="text/html" href="https://streetartaberdeen.org/timeline/334-3"/>
+		<published>2022-01-20T20:56:42+00:00</published>
+		<updated>2022-01-20T20:56:42+00:00</updated>
+		<id>https://streetartaberdeen.org/timeline/334-3</id>
+		<author>
+			<name>Andy Gaskell</name>
+		</author>
+		<category term="753" />
+	</entry>
+	<entry>
+		<title>Near 7 Jopp&amp;#039;s Ln, Aberdeen AB25 1BX, UK</title>
+		<link rel="alternate" type="text/html" href="https://streetartaberdeen.org/timeline/697"/>
+		<published>2022-01-20T22:27:09+00:00</published>
+		<updated>2022-01-20T22:27:09+00:00</updated>
+		<id>https://streetartaberdeen.org/timeline/697</id>
+		<author>
+			<name>Andy Gaskell</name>
+		</author>
+		<category term="Near 7 Jopp&amp;#039;s Ln, Aberdeen AB25 1BX, UK" />
+	</entry>
+</feed>

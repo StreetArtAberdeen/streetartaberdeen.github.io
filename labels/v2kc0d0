@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Labels - Street Art Aberdeen</title>
+		<description><![CDATA[Street Art Aberdeen is a collaborative visual guide to street art in the city of Aberdeen, Scotland. It provides maps & galleries to help you explore & find art]]></description>
+		<link>https://streetartaberdeen.org/labels/49</link>
+		<lastBuildDate>Tue, 12 Nov 2024 21:44:48 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://streetartaberdeen.org/labels/v2k?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>126</title>
+			<link>https://streetartaberdeen.org/timeline/126</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/126</guid>
+			<description><![CDATA[]]></description>
+			<category>126</category>
+			<pubDate>Wed, 06 Apr 2022 20:22:28 +0000</pubDate>
+		</item>
+		<item>
+			<title>331</title>
+			<link>https://streetartaberdeen.org/timeline/331-2</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/331-2</guid>
+			<description><![CDATA[]]></description>
+			<category>331</category>
+			<pubDate>Tue, 10 May 2022 20:45:23 +0000</pubDate>
+		</item>
+		<item>
+			<title>451</title>
+			<link>https://streetartaberdeen.org/timeline/451-2</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/451-2</guid>
+			<description><![CDATA[]]></description>
+			<category>451</category>
+			<pubDate>Tue, 16 May 2023 13:03:51 +0000</pubDate>
+		</item>
+		<item>
+			<title>492</title>
+			<link>https://streetartaberdeen.org/timeline/492-3</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/492-3</guid>
+			<description><![CDATA[]]></description>
+			<category>492</category>
+			<pubDate>Wed, 28 Sep 2022 13:37:50 +0000</pubDate>
+		</item>
+		<item>
+			<title>607</title>
+			<link>https://streetartaberdeen.org/timeline/607-2</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/607-2</guid>
+			<description><![CDATA[<p>Thanks to <a href="https://www.flickr.com/photos/the_pingus/" target="_blank" rel="noopener">The Pingus</a> for the photo.</p>]]></description>
+			<category>607</category>
+			<pubDate>Mon, 30 May 2022 10:06:32 +0000</pubDate>
+		</item>
+		<item>
+			<title>654</title>
+			<link>https://streetartaberdeen.org/timeline/654-2</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/654-2</guid>
+			<description><![CDATA[]]></description>
+			<category>654</category>
+			<pubDate>Thu, 06 Oct 2022 10:01:27 +0000</pubDate>
+		</item>
+		<item>
+			<title>754</title>
+			<link>https://streetartaberdeen.org/timeline/754-2</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/754-2</guid>
+			<description><![CDATA[]]></description>
+			<category>754</category>
+			<pubDate>Thu, 06 Oct 2022 10:07:26 +0000</pubDate>
+		</item>
+		<item>
+			<title>795</title>
+			<link>https://streetartaberdeen.org/timeline/795-2</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/795-2</guid>
+			<description><![CDATA[<p>Thanks to <a href="https://www.flickr.com/photos/the_pingus/" target="_blank" rel="noopener">The Pingus</a> for the photo.</p>]]></description>
+			<category>795</category>
+			<pubDate>Mon, 30 May 2022 10:45:42 +0000</pubDate>
+		</item>
+		<item>
+			<title>864</title>
+			<link>https://streetartaberdeen.org/timeline/864</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/864</guid>
+			<description><![CDATA[]]></description>
+			<category>864</category>
+			<pubDate>Tue, 19 Jul 2022 17:21:01 +0000</pubDate>
+		</item>
+		<item>
+			<title>881</title>
+			<link>https://streetartaberdeen.org/timeline/881-3</link>
+			<guid isPermaLink="true">https://streetartaberdeen.org/timeline/881-3</guid>
+			<description><![CDATA[<p>Thanks to <a href="https://www.flickr.com/photos/the_pingus/" target="_blank" rel="noopener">The Pingus</a> for the photo.</p>]]></description>
+			<category>881</category>
+			<pubDate>Mon, 30 May 2022 09:56:19 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

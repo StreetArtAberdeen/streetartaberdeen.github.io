@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<title type="text">Labels - Street Art Aberdeen</title>
+	<subtitle type="text">Street Art Aberdeen is a collaborative visual guide to street art in the city of Aberdeen, Scotland. It provides maps &amp; galleries to help you explore &amp; find art</subtitle>
+	<link rel="alternate" type="text/html" href="https://streetartaberdeen.org"/>
+	<id>https://streetartaberdeen.org/labels/slave</id>
+	<updated>2024-11-12T21:44:03+00:00</updated>
+	<author>
+		<name>Street Art Aberdeen</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://streetartaberdeen.org/labels/slave?format=feed&amp;type=atom"/>
+	<entry>
+		<title>165</title>
+		<link rel="alternate" type="text/html" href="https://streetartaberdeen.org/timeline/165"/>
+		<published>2022-07-19T17:15:47+00:00</published>
+		<updated>2022-07-19T17:15:47+00:00</updated>
+		<id>https://streetartaberdeen.org/timeline/165</id>
+		<author>
+			<name>Andy Gaskell</name>
+		</author>
+		<category term="165" />
+	</entry>
+	<entry>
+		<title>Near 31 Kettlehills Cres, Aberdeen AB16 5TA, UK</title>
+		<link rel="alternate" type="text/html" href="https://streetartaberdeen.org/timeline/953-3"/>
+		<published>2022-03-11T16:27:25+00:00</published>
+		<updated>2022-03-11T16:27:25+00:00</updated>
+		<id>https://streetartaberdeen.org/timeline/953-3</id>
+		<author>
+			<name>Andy Gaskell</name>
+		</author>
+		<category term="Near 31 Kettlehills Cres, Aberdeen AB16 5TA, UK" />
+	</entry>
+	<entry>
+		<title>Near A96, Bucksburn, Aberdeen AB21 9AY, UK</title>
+		<link rel="alternate" type="text/html" href="https://streetartaberdeen.org/timeline/910-2"/>
+		<published>2022-05-19T13:23:23+00:00</published>
+		<updated>2022-05-19T13:23:23+00:00</updated>
+		<id>https://streetartaberdeen.org/timeline/910-2</id>
+		<author>
+			<name>Andy Gaskell</name>
+		</author>
+		<category term="Near A96, Bucksburn, Aberdeen AB21 9AY, UK" />
+	</entry>
+	<entry>
+		<title>Near Esplanade, Aberdeen AB23 8DR, UK</title>
+		<link rel="alternate" type="text/html" href="https://streetartaberdeen.org/timeline/192"/>
+		<published>2023-09-05T20:16:44+00:00</published>
+		<updated>2023-09-05T20:16:44+00:00</updated>
+		<id>https://streetartaberdeen.org/timeline/192</id>
+		<author>
+			<name>Andy Gaskell</name>
+		</author>
+		<category term="Near Esplanade, Aberdeen AB23 8DR, UK" />
+	</entry>
+	<entry>
+		<title>Near Esplanade, Aberdeen AB24 1XL, UK</title>
+		<link rel="alternate" type="text/html" href="https://streetartaberdeen.org/timeline/672-3"/>
+		<published>2022-11-10T13:57:39+00:00</published>
+		<updated>2022-11-10T13:57:39+00:00</updated>
+		<id>https://streetartaberdeen.org/timeline/672-3</id>
+		<author>
+			<name>Andy Gaskell</name>
+		</author>
+		<category term="Near Esplanade, Aberdeen AB24 1XL, UK" />
+	</entry>
+	<entry>
+		<title>Near Forrit Brae, Aberdeen AB21 9FX, UK</title>
+		<link rel="alternate" type="text/html" href="https://streetartaberdeen.org/timeline/478-2"/>
+		<published>2022-05-19T13:24:54+00:00</published>
+		<updated>2022-05-19T13:24:54+00:00</updated>
+		<id>https://streetartaberdeen.org/timeline/478-2</id>
+		<author>
+			<name>Andy Gaskell</name>
+		</author>
+		<category term="Near Forrit Brae, Aberdeen AB21 9FX, UK" />
+	</entry>
+	<entry>
+		<title>Near Forrit Brae, Aberdeen AB21 9FX, UK</title>
+		<link rel="alternate" type="text/html" href="https://streetartaberdeen.org/timeline/647-3"/>
+		<published>2022-05-19T13:28:19+00:00</published>
+		<updated>2022-05-19T13:28:19+00:00</updated>
+		<id>https://streetartaberdeen.org/timeline/647-3</id>
+		<author>
+			<name>Andy Gaskell</name>
+		</author>
+		<category term="Near Forrit Brae, Aberdeen AB21 9FX, UK" />
+	</entry>
+</feed>
